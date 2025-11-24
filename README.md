@@ -1,7 +1,7 @@
 # 👋 Hey, I’m **Khizar**  
 
 🎓 BSCS Student @ FAST NUCES  
-💻 **Aspiring Developer** | 🎨 **Creative Editor** | 🎥 **Ex-YouTuber (1.9K Subs)**  
+💻 **Aspiring Developer** | 🎨 **Creative Video Editor**  
 
 ---
 
@@ -27,9 +27,6 @@ I’m a Computer Science student with a curious mind and a passion for learning.
 - Playing Sports  
 
 ---
-
-## 📊 GitHub Stats  
-![Khizar’s GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
 
 
 
