@@ -15,7 +15,8 @@ I’m a Computer Science student with a curious mind and a passion for learning.
 ## 🛠️ Skills & Tools  
 
 ### 💻 Programming  
-- C  
+- C
+- C++
 
 ### 🎨 Creative Tools  
 - Canva  
